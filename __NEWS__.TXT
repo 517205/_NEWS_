@@ -1,0 +1,484 @@
+http://www.linuxidc.com/Linux/2015-05/117401.htm
+linux space
+
+ncftp
+
+FileZilla Server FTP server
+
+http://mirrors.melbourne.co.uk/ubuntu-releases/16.04.2/
+
+http://www.runoob.com/linux/linux-vim.html
+vim
+
+http://jingyan.baidu.com/article/22a299b5cf32a79e19376a1d.html
+Ubuntu gui
+
+http://www.runoob.com/python3/python3-tutorial.html
+http://www.runoob.com/python/python-tutorial.html
+
+5A02H-AU243-TZJ49-GTC7K-3C61N
+vmware 12 pro
+
+
+主引导记录(MBR，Main Boot Record)
+
+http://baike.baidu.com/item/linux磁盘分区/5203467?sefr=cr
+http://www.cnblogs.com/smileYangYue/p/6164430.html
+http://blog.csdn.net/naiqianz/article/details/50428830
+linux disk
+
+
+mount -t ext3 -o rw  /dev/block/mmcblk0p2 /sd-ext
+
+cat /proc/partitions
+
+GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
+
+http://www.omgzscl.com/ka87db0e30f111f18583d05a6c_9_12.html
+
+fastboot oem get-bootinfo
+
+http://tutu.spaces.eepw.com.cn/articles/article/item/70737
+mount
+
+http://blog.csdn.net/qq1084283172/article/details/52493227
+mount android
+
+git pull --rebase NOI master
+
+https://www.youtube.com/watch?v=o_NUKxjBlKI
+https://www.youtube.com/watch?v=yIHubvluLAI
+iOS9-signed-042916.zip
+ios9->android
+
+步骤： 
+
+1、单击“开始——运行，然后输入regedit （打开注册表） 
+
+2、依次展开：HEKEY——LOCAL——MACHIME/SOFTWARE/microsoft/WINDOWS/ CURRENTVERSION/EXPLORER/DESKTOP/NAMESPACE 在左边空白外点击“新建” 
+
+，选择：“主键”，把它命名为“645FFO40——5081——101B——9F08——00AA002F954E” 
+
+再把右边的“默认”的主键的键值设为“回收站”，然后退出注册表。就OK啦。 
+
+3、要重启计算机。 
+
+只要机器没有运行过磁盘整理。系统完好.任何时候的文件都可以找回来。
+
+http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
+http://www.cnblogs.com/samren/archive/2012/06/09/2543111.html
+http://www.cnblogs.com/goozgk/p/5682977.html
+http://jingyan.baidu.com/article/f7ff0bfc7181492e27bb1360.html\
+git
+
+http://myphp-0005.44fs.preview.openshiftapps.com/download/3.apk
+
+oc rsh myphp-1-z2265
+
+http://www.cnblogs.com/sunzhenchao/archive/2013/01/16/2863160.html
+phpmyadmin #2002
+
+https://codeload.github.com/517205/pic/zip/master
+pic
+
+https://codeload.github.com/517205/myweb/zip/master
+main web
+
+https://codeload.github.com/517205/phpmyadmin/zip/master
+phpmyadmin 
+
+
+http://myphp-0005.44fs.preview.openshiftapps.com
+
+http://www.cnblogs.com/Liangw/archive/2013/01/30/2882579.html
+
+mysql://mysql:3306/
+
+
+https://www.youtube.com/watch?v=yFPYGeKwmpk
+openshift
+
+
+http://blog.csdn.net/codebat/article/details/38585665
+brainfuck
+
+kAxsh2rpHs
+
+
+http://nazo.one-story.cn/
+
+https://android.googleapis.com/packages/ota/google_bullhead_bullhead/cd8d8f775bcdb6a76a496a3a664caba0b9ed47f9.zip
+Android 7.0
+
+
+http://blog.csdn.net/leovnay/article/details/18236011
+
+
+https://s3.amazonaws.com/oso-preview-docker-registry/client-tools/3.4/oc-3.4.1.2-1-windows.zip
+https://www.openshift.com/
+
+
+任何在我出生时已经有的科技都是稀松平常的世界本来秩序的一部分。
+
+任何在我15-35岁之间诞生的科技都是将会改变世界的革命性产物。
+
+任何在我35岁之后诞生的科技都是违反自然规律要遭天谴的。
+
+——道格拉斯·亚当斯的科技三定律
+
+http://www.ithao123.cn/content-772213.html
+php mysql
+
+C:\Users\yimin>keytool -genkey -alias C:\users\yimin\desktop\demo.keystore -keyalg RSA -validity 40000 -keystore demo.keystore
+
+α是内测版本，β是公测版本，γ是正式版本的前的备选版本。
+
+http://testyourvocab.com/
+
+http://androiddevtools.cn
+
+
+http://www.cnblogs.com/88999660/articles/1581524.html
+vi
+
+http://www.w3school.com.cn/php/php_variables.asp
+http://www.w3school.com.cn/index.html
+
+
+http://www.wallpaperbetter.com/
+
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+
+
+http://zh.visualgo.net/
+
+export PATH=$PATH:/system/5a/gcc:/system/5a/gcc/bin:/system/5a/gcc/arm-linux-androideabi/bin:/system/5a/gcc/libexec
+
+COLOR 0A
+CLS
+@ECHO Off
+Title 查询局域网内在线电脑IP
+:send
+@ECHO off&setlocal enabledelayedexpansion
+ECHO 正在获取本机的IP地址，请稍等... 
+for /f "tokens=3 skip=2 delims=: " %%i in ('nbtstat -n') do ( 
+set "IP=%%i" 
+set IP=!IP:~1,-1! 
+ECHO 本机IP为：!IP! 
+goto :next 
+)
+:next 
+for /f "delims=. tokens=1,2,3,4" %%i in ("%IP%") do set range=%%i.%%j.%%k 
+ECHO.&ECHO 正在获取本网段内的其它在线计算机名，请稍等... 
+ECHO 本网段【%range%.*】内的计算机有： 
+for /f "delims=" %%i in ('net view') do ( 
+set "var=%%i" 
+::查询在线计算机名称 
+if "!var:~0,2!"=="\\" ( 
+set "var=!var:~2!" 
+ECHO !var! 
+ping -n 1 !var!>nul 
+)) 
+ECHO.
+ECHO 正在获取本网段内的其它在线计算机IP，请稍等... 
+for /f "skip=3 tokens=1,* delims= " %%i in ('arp -a') do ECHO IP： %%i 正在使用
+ECHO.
+ECHO 查询完毕，按任意键退出...
+pause>nul
+
+http://www.66game.cn/kongzhanjiejiyouxixiazai/
+
+http://slither.io/
+snake game
+http://agar.io/
+ball game
+
+http://www.cnblogs.com/itech/archive/2009/04/17/1438439.html
+vim
+
+First and foremost,… Additionally/ Besides/ What's more,… Last but not least,…
+https://www.zhihu.com/question/28956531
+english writing
+
+# su
+# mount -o rw,remount -t yaffs2 /dev/block/mtdblock3 /system
+# chmod 777 /system# 
+
+http://www.cnblogs.com/scue/archive/2012/10/30/2746201.html
+gcc4android
+
+http://www.open-open.com/lib/view/open1422102599859.html
+http://blog.csdn.net/janronehoo/article/details/6863772/
+http://www.computerhope.com/unix/ups.htm
+http://www.cnblogs.com/zeo-to-one/p/6081488.html
+http://www.cnblogs.com/zeo-to-one/p/6160138.html
+adb
+
+http://v.ku6.com/show/I9W6uX8QdKiFwFV7qHFzdQ...html
+
+http://music.163.com/#/playlist?id=527414410&userid=15616484
+
+http://www.app-echo.com/channel/1091?page=1&per-page=14
+
+
+ncftp
+
+FileZilla Server FTP server
+
+http://mirrors.melbourne.co.uk/ubuntu-releases/16.04.2/
+
+
+http://jingyan.baidu.com/article/e52e3615beb08340c60c51d2.html
+ip
+
+http://www.3987.com/article/network/14183.html
+http://jingyan.baidu.com/article/f3ad7d0fcf5a2509c3345b14.html
+remote control pc
+
+http://jingyan.baidu.com/article/60ccbceb18624464cab197ea.html
+http://iso.mirrors.ustc.edu.cn/ubuntu-releases/16.04.1/ubuntu-16.04.1-server-amd64.iso
+http://www.jb51.net/os/130795.html
+http://tour.ubuntu.com/zh-CN/
+install ubuntu
+
+http://hjc.im/explanation-why-onedrive-blocked/
+解决方法 
+我们可以采用改hosts的方法上onedrive网页，在hosts中新增以下内容即可 134.170.108.26 onedrive.live.com
+更新：感谢slice提供hosts 
+134.170.108.152 skyapi.onedrive.live.com
+只加onedrive.live.com似乎会出现文件夹、文件出无法显示的情况
+
+
+http://jingyan.baidu.com/article/ae97a646a1bba5bbfd461d8d.html
+android passwd
+
+
+http://www.xiazaiba.com/jiaocheng/7231.html
+1.PC部署Android SDK环境。
+2.确保手机解锁（无运营商锁）。
+3.手机打开开发者模式（连按版本号激活），连接电脑，打开USB调试，授权电脑权限点“是”
+4.打开CMD，调出“adb devices”
+5.adb reboot bootloader
+6.定位到镜像文件夹（注意不要有中文）
+7.CMD输入 flash-all.bat
+
+https://www.zhihu.com/question/22212254
+一位物理学教授闯红灯被交警拦下，向交警解释说由于他向着红灯运动，光会发生蓝移，所以他看到的是绿灯。交警说:哦，那你超速了。
+
+
+上电动力学的时候想到一个很冷的……
+“经典的反义词是什么？新潮？叛逆？”
+
+“额……不是量子吗。”
+……真的好冷……
+
+
+4、把以下注册信息复制到文本框内进行注册。
+Name: John James Jones
+Email: john.james.jones@hushmail.com
+Registration code: (6 行)
+2RJSDKSSNGSXMYNWEEH7E4T6FUVCGPPB
+CDADQ5LMEABJF76Y369B5LTLVXVFWUN3
+26KQ58M78J2NNS6WKPT9CG4MJXNXH4MJ
+YBYXSARTBNPFNVBF6UFXQUVEWXQQGSUY
+HFF9AVV857AENGWWMPMRN5VLHB884JEA
+Y48FXJJ5JDY6UVTP8FMJSHDLSAXZB5HE
+
+listary
+
+BWG7X-J98B3-W34RT-33B3R-JVYW9
+key for vs2013ult
+
+http://jamesfriend.com.au/pce-js/
+mac emu
+
+C:\Users\yimin\AppData\Local\Microsoft\Windows\INetCache\IE
+
+fixedsys
+
+
+http://bbs.tianya.cn/post-free-5114688-1.shtml
+uninst 360
+
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+mblctr
+
+http://jingyan.baidu.com/article/3ea51489cc36d452e71bba5c.html
+ue hex
+
+QQ 3534226521
+
+
+ 517
+01005
+ 205
+ 
+http://www.jz5u.com/Soft/apply/file/51971.html
+uc
+
+@echo off
+for /f "delims=" %%i in ('echo %date%')do set otime=%%i
+for /f "delims=" %%i in ('dir /TA uc.exe ^| find "uc.exe"')do set atime=%%i
+echo %atime% | date > nul
+start uc.exe 
+ping 127.0.0.1 > nul
+echo %otime% | date  > nul
+https://www.zhihu.com/question/21715980
+
+http://www.52z.com/jiaocheng/83_3.html
+
+http://ip168.googlegroups.com/web/%EF%BC%88%E7%83%AD%EF%BC%81%EF%BC%89ballance%E5%B9%B3%E8%A1%A1%E7%90%83%E9%80%9A%E5%85%B3%E5%AD%98%E6%A1%A3%E5%92%8C%E7%A0%B4%E8%A7%A3%E8%A1%A5%E4%B8%81.rar?hl=en&gda=XxM0nc4AAACq5sdNmifQmbruEBiy2l9LeGaJbtZqcm5MLAZIIsyy2dODKeNwWWSoLwPk1YbZ6QsLmkTcVPZbhAx6TDYXhIsxdBvPi1AoEg5PkuzuxqopqfWM5Sqsy8c-0IGM1dEvI4W4TB8xbdCD5TL_LkBAQ71Q4ueX0RuiJgNmmTjTZBzAs56NnaeOpuojC6z1kEcR9s5cGjz63628y6EjAZe_2K7EE8EhqG4YuB3Va27ELiUQOYoiP1ko26nBMKE4EdVF_9XjsKXVs-X7bdXZc5buSfmx&gsc=hJbiTwsAAADHr6ip7bUrH2JY-OHmdmZa
+ballance
+
+http://www.bilibili.com/video/av3927993/
+
+http://static.hdslb.com/miniloader.swf?aid=3927993&amp;page=1
+http://static.hdslb.com/play.swf
+步骤一： 首先用笔在方格纸上标记出尺寸为上底1厘米、下底6厘米、高3.5厘米的等腰梯形，如果你愿意的话，可以按比例扩大两倍或三倍。但是要注意的是，千万不要太大，只要能够只要能配合上手机摄像头的尺寸就好。
+ 
+热门动态
+06-09 16:38 1380
+步骤二： 拿出你之前准备好的CD壳，将边缘部分都卸下来。从材料的选择上来讲，只要是这种玻璃材质的物品都可以，越透明效果越好。但为了方便起见，就选择了最容易获取的CD壳。
+ 
+热门动态
+06-09 16:38 1170
+步骤四： 用胶带纸将四枚梯形小透明板拼接成一个小金字塔的样子，然而粘合到一起。另外，我们也可以用强力胶来代替胶带纸，但用强力胶来让玻璃板粘合难度更大，因此还是使用 透明胶带纸更方便。
+ 
+热门动态
+06-09 16:38 1060
+步骤五： 关灯，将这个透明金字塔倒置在屏幕上，然后用Mrwhosetheboss专门提供的几段演示视频来进行测试。感兴趣的朋友可以看看这段视频，然后赶快自己动手也试试吧。
+
+http://neihanshequ.com/p6681086126/?iid=3658334929&app=joke_essay
+
+2016.6.19 WPS Office 权限已改
+
+http://blog.csdn.net/ckh2007/article/details/8264659
+for UC
+
+
+C:\Users\yimin\AppData\Roaming\Tencent\QQ\Temp
+
+
+第一ppt
+
+http://blog.chinaunix.net/uid-22524523-id-387805.html
+for DOS
+
+
+https://www.baidu.com/s?wd=win7%20x64%20%E6%97%97%E8%88%B0%E7%89%88%20%E7%A7%98%E9%92%A5&rsv_spt=1&rsv_iqid=0xae1a4e9c0000565e&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_enter=1&oq=win7%20x64&rsv_t=6887LXbvyWupXHUNI8Zym2vyrxkUT3Ig5QWka9skmajn7wSd6sZGt9tsVOU48LCC8mci&rsv_pq=ff11187100006264&rsv_sug2=0&inputT=15288&rsv_sug4=17812
+
+win7 x64 keys
+
+
+
+ed2k://|file|cn_windows_7_ultimate_x64_dvd_x15-66043.iso|3341268992|7DD7FA757CE6D2DB78B6901F81A6907A|/
+win7 64bit
+
+http://www.izmzg.com/zmzg/xian/lishi/2012-03-06/8310.html
+//西安
+
+
+http://www.miui.com/thread-430430-1-1.html
+//bochs
+
+
+http://f1.doyo.cn/flash/swf/c8/da9cfe7fc93ee8cd1278.swf
+
+
+autorun.inf内容： 
+
+[AutoRun] 
+OPEN=setup.exe 
+shellexecute=setup.exe 
+shell\Auto\command=setup.exe 
+如果不在根目录下,如在X:\???下,可作相应更改: 
+[AutoRun] 
+OPEN=X:\???\setup.exe 
+shellexecute=X:\???\setup.exe 
+shell\Auto\command=X:\???\setup.exe
+
+
+
+[AutoRun]
+Open=Setup.exe
+Icon=Setup.Bmp
+------------
+Shell\sys0=浏览《自述文件》
+Shell\sys0\command=Notepad Readme.txt
+Shell\sys1=安装《DirectX9.0》ForWin9x/Me/2K/Xp
+Shell\sys1\command=DirectX\dxsetup.exe
+---------------
+[autorun]  
+shellexecute=qq.bat  
+icon=Maxs.ico
+
+for autorun.inf
+
+1、在插入U盘时按住键盘“shift”键，直到提示“设备可以使用”，即可松开“shift”键，在打开U盘时不要双击打开，也不要用右键菜单的“打开”选项打开，而应使用资源管理器 (开始-所有程序-附件-windows资源管理器)将其打开。打开资源管理器后，一定要通过左侧栏的树形目录打开可移动设备! 
+ 
+　　2、在根目录下建立一个名叫autorun.inf的文件夹。由于Windows规定在同一目录中，同名的文件和文件夹不能共存，这样病毒就无法创建autorun.inf文件，即使你双击盘符也不会运行病毒。 
+ 
+　　点击“开始”，选择“运行”，在对话框中输入“cmd”，打开命令行窗口，在命令行窗口中输入以下命令： 
+ 
+　　第一步：输入D: 然后回车 ， 
+ 
+　　第二步：输入rmdir /s autorun.inf 然后回车， 
+ 
+　　第三步：当出现提示时，按“Y”，并按回车。此时，D盘上的病毒文件即可删除! 
+ 
+　　用此方法将其它盘上的autorun.inf文件(夹)依次删除! 
+
+
+
+NKJFK-GPHP7-G8C3J-P6JXR-HQRJR
+for  win10
+
+
+取得文件夹所有权的步骤
+1.右键单击要取得其所有权的文件夹，然后单击“属性”。
+
+2.单击“安全”选项卡，单击“高级”，然后单击“所有者”选项卡。
+
+3.单击“编辑”。  如果系统提示您输入管理员密码或进行确认，请键入密码或提供确认。
+
+4.单击要为其授予所有权的人员的名称。
+
+5.如果希望该人成为此文件夹中文件和子文件夹的所有者，请选中“替换子容器和对象的所有者”复选框。
+
+6.单击“确定”。
+for win7
+
+
+
+[-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.dll]
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.dll]
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.dll\OpenWithList]
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.dll\OpenWithProgids]
+"dllfile"=hex(0):
+
+for DLL
+
+
+9223372036854775808
+
+
+
+set "Ymd=%date:~,4%%date:~5,2%%date:~8,2%"
+md %ymd%
+copy /y E:\Anan\*.log E:\Anan\%ymd%\
+
+第一句为建立一个变量，并通过%date:~5,2%来组合得出当前日期，组合的效果为yyyymmdd,date命令得到的日期格式默认为yyyy-mm-dd(如果不是此格式可以通过pause命令来暂停命令行窗口看通过%date:~,20%得到的当前计算机日期格式)，所以通过%date:~5,2%即可得到日期中的第五个字符开始的两个字符，例如今天为2009-02-05,通过%date:~5,2%则可以得到02。（日期的字符串的下标是从0开始的）
+第二句为用MD命令 建立以变量Ymd为名的文件夹
+第三句为复制指定的文件到指定的文件夹。
+
+
+@echo off
+set "Ymd=%date:~,4%%date:~5,2%%date:~8,2%"
+echo "ymd"
+md %ymd%
+dir/a>%ymd%\dir.txt
+cd %ymd%
+pause>nul
+
+
