@@ -1,7 +1,58 @@
+
+
+
+
+http://blog.csdn.net/ivan_zjj/article/details/7614648
+Assembly Language
+
+http://blog.csdn.net/u013648811/article/details/20962535
+linux skill
+
+
+
+xeyes
+
+
+http://blog.csdn.net/walker19900515/article/details/47079699
+shell key
+
+
+http://www.cnblogs.com/limingluzhu/p/5702486.html
+?UID
+
+
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html
+
+http://tldp.org/LDP/abs/html/
+Advanced Bash-Scripting Guide
+
+https://github.com/qinjx/30min_guides/blob/master/shell.md
+
+http://blog.csdn.net/qq_24369113/article/details/53179218
+Ubuntu USB
+
+http://www.cnblogs.com/pangguoming/p/4584846.html
+linux disk
+
+mysql -h 127.0.0.1 -u root -p -P 3306
+
+
+http://www.2cto.com/os/201504/390027.html
+lamp
+
+http://www.cnblogs.com/xiaoluo501395377/archive/2013/06/02/3113420.html
+linux service
+
+sl4a
+
+295232799039604140847618609643520000000
+
 http://www.linuxidc.com/Linux/2015-05/117401.htm
 linux space
 
+http://www.cnblogs.com/lidan/archive/2011/11/12/2246507.html
 ncftp
+vsftpd
 
 FileZilla Server FTP server
 
